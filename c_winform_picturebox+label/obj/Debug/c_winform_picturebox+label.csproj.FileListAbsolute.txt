@@ -1,0 +1,10 @@
+C:\Users\olove\Desktop\study\project\c_winform_picturebox+label\bin\Debug\c_winform_picturebox+label.exe.config
+C:\Users\olove\Desktop\study\project\c_winform_picturebox+label\bin\Debug\c_winform_picturebox+label.exe
+C:\Users\olove\Desktop\study\project\c_winform_picturebox+label\bin\Debug\c_winform_picturebox+label.pdb
+C:\Users\olove\Desktop\study\project\c_winform_picturebox+label\obj\Debug\c_winform_picturebox+label.csproj.AssemblyReference.cache
+C:\Users\olove\Desktop\study\project\c_winform_picturebox+label\obj\Debug\c_winform_picturebox_label.Form.resources
+C:\Users\olove\Desktop\study\project\c_winform_picturebox+label\obj\Debug\c_winform_picturebox_label.Properties.Resources.resources
+C:\Users\olove\Desktop\study\project\c_winform_picturebox+label\obj\Debug\c_winform_picturebox+label.csproj.GenerateResource.cache
+C:\Users\olove\Desktop\study\project\c_winform_picturebox+label\obj\Debug\c_winform_picturebox+label.csproj.CoreCompileInputs.cache
+C:\Users\olove\Desktop\study\project\c_winform_picturebox+label\obj\Debug\c_winform_picturebox+label.exe
+C:\Users\olove\Desktop\study\project\c_winform_picturebox+label\obj\Debug\c_winform_picturebox+label.pdb
